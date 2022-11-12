@@ -1,0 +1,15 @@
+/Users/vitaliizaretckii/Desktop/lesson4_lekcia4/Les1/obj/Debug/net6.0/Les1.csproj.AssemblyReference.cache
+/Users/vitaliizaretckii/Desktop/lesson4_lekcia4/Les1/obj/Debug/net6.0/Les1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vitaliizaretckii/Desktop/lesson4_lekcia4/Les1/obj/Debug/net6.0/Les1.AssemblyInfoInputs.cache
+/Users/vitaliizaretckii/Desktop/lesson4_lekcia4/Les1/obj/Debug/net6.0/Les1.AssemblyInfo.cs
+/Users/vitaliizaretckii/Desktop/lesson4_lekcia4/Les1/obj/Debug/net6.0/Les1.csproj.CoreCompileInputs.cache
+/Users/vitaliizaretckii/Desktop/lesson4_lekcia4/Les1/bin/Debug/net6.0/Les1
+/Users/vitaliizaretckii/Desktop/lesson4_lekcia4/Les1/bin/Debug/net6.0/Les1.deps.json
+/Users/vitaliizaretckii/Desktop/lesson4_lekcia4/Les1/bin/Debug/net6.0/Les1.runtimeconfig.json
+/Users/vitaliizaretckii/Desktop/lesson4_lekcia4/Les1/bin/Debug/net6.0/Les1.dll
+/Users/vitaliizaretckii/Desktop/lesson4_lekcia4/Les1/bin/Debug/net6.0/Les1.pdb
+/Users/vitaliizaretckii/Desktop/lesson4_lekcia4/Les1/obj/Debug/net6.0/Les1.dll
+/Users/vitaliizaretckii/Desktop/lesson4_lekcia4/Les1/obj/Debug/net6.0/refint/Les1.dll
+/Users/vitaliizaretckii/Desktop/lesson4_lekcia4/Les1/obj/Debug/net6.0/Les1.pdb
+/Users/vitaliizaretckii/Desktop/lesson4_lekcia4/Les1/obj/Debug/net6.0/Les1.genruntimeconfig.cache
+/Users/vitaliizaretckii/Desktop/lesson4_lekcia4/Les1/obj/Debug/net6.0/ref/Les1.dll
